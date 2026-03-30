@@ -2,4 +2,4 @@
 
 This repository contains my solution for the subset generation problem 
 
-- `subsets.cpp`: code in C++.
+- `subSets.cpp`: code in C++.
